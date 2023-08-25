@@ -7,7 +7,7 @@ Mục tiêu của dự án này là tìm ra mô hình học máy phù hợp nh�
 
 ### Nguồn dữ liệu và tổng quan
 
-Bộ dữ liệu FraudDetection được lấy từ một chia sẻ trên kho dữ liệu Kaggle. 
+Bộ dữ liệu FraudDetection được lấy từ một chia sẻ trên kho dữ liệu Kaggle. (https://www.kaggle.com/datasets/kartik2112/fraud-detection) 
 Đây là tập dữ liệu giao dịch thẻ tín dụng mô phỏng chứa các giao dịch hợp pháp và gian lận từ ngày 1 tháng 1 năm 2019 đến ngày 31 tháng 12 năm 2020. 
 Nó bao gồm thẻ tín dụng của 1000 khách hàng thực hiện giao dịch với nhóm 800 người bán.
 
